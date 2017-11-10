@@ -1,2 +1,2 @@
-# query-tnw-modal
+# jquery-tnw-modal
 jQuery plugin for modals.
