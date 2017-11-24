@@ -10,7 +10,7 @@
   "dependencies": {
     "jquery": "^3.2.1"
   },
-  "description": "jQuery plugins for modals.",
+  "description": "jQuery plugin for modals.",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
